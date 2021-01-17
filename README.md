@@ -5,6 +5,7 @@
 ## Table Of Contents
 - How does the app look?
 - Motivation
+- Development Lifecycle of the App
 
 ### How does the app look?
 ![App Logo](https://github.com/drdataSpp/ML-App1-Diabetes-Predictor/blob/main/Diabetes%20App%20Image.PNG)
